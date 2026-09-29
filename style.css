@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f3ef;
+    color: #4a3b32;
+    padding: 40px;
+    text-align: center;
+}
+.promo-card {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    display: inline-block;
+}
